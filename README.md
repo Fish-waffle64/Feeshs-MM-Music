@@ -1,4 +1,4 @@
-# Feeshs-MM-Music
+# Feesh's MM Music
 MP3 files to listen to and ZSEQ files to put into Majora's Mask Randomizer!
 
 - About - 
